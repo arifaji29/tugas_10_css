@@ -1,0 +1,23 @@
+.kotak {
+    background-image:radial-gradient( circle at top right, white,red);
+    background-repeat: no-repeat;
+ }
+.satu {
+    width: 500px;
+    height: 500px;
+    background-image: radial-gradient(circle at 50% 100%, white, blue);
+    background-repeat: no-repeat;
+    margin: auto;
+    position: relative;
+
+}
+.dua {
+    width: 500px;
+    height: 150px;
+    background-image: repeating-radial-gradient(circle at 50% 50%, blue, white);
+    margin: auto;
+    position: relative;
+
+}
+
+
